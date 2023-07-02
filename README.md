@@ -30,13 +30,13 @@ Answer the prompted questions about your project. If you do not have an answer, 
 
 ## Screenshots
 Application
-!(Assets/screenshot1.jpg) 
+![Application](Assets/screenshot1.jpg) 
 
 Generation
-(Assets/screenshot2.jpg)
+![Generation](Assets/screenshot2.jpg)
 
 Preview
-(Assets/screenshot3.jpg)
+![Preview](Assets/screenshot3.jpg)
 
 ## Credits
 
