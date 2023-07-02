@@ -12,8 +12,41 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  # ${data.title}
 
+  ## Description
+  ${data.decription}
+
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributions](#contributions)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  To add a screenshot, create an assets/images folder in your repository and 
+  upload your screenshot to it. Then, using the relative filepath, add it to 
+  your README.
+
+  ## License
+  ${data.license}
+
+  ## Contributions
+  ${data.contributions}
+
+  ## Tests
+  ${data.tests}
+
+  ## Questions
+  ${data.questions}
 `;
 }
 
