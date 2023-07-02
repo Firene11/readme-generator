@@ -71,8 +71,13 @@ function writeToFile(filename, data) {
 function init() {
     return inquirer.prompt(questions)
     .then((data) => {
+        const mdContent = generateMarkdown(data)
+        fs.writeFile('README.md', mdContent, (err) =>
+      err ? console.log(err) : console.log('Successfully created README.md!')
+    );
         console.log(data)
         return data
+        
     })
     .catch((error) => {
         console.log(error)
