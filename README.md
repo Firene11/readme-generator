@@ -29,11 +29,11 @@ Answer the prompted questions about your project. If you do not have an answer, 
 [Watch this brief video to learn more](https://drive.google.com/file/d/1neEW98RD43GkDaog7E1KRJ-Qh3X-FmZy/view)
 
 ## Screenshots
-[Application](./assets/screenshot1.jpg)
+[Application](Assets/screenshot1.jpg) 
 
-[Mark Up](./assets/screenshot2.jpg)
+[Mark Up](Assets/screenshot2.jpg)
 
-[Result](./assets/screenshot3.jpg)
+[Result](Assets/screenshot3.jpg)
 
 ## Credits
 
