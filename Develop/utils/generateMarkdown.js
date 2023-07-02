@@ -37,7 +37,7 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
 
   ## Description
-  ${data.description}
+  ${data.description}\n
   ${data.link}
 
   ## Table of Contents
