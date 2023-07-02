@@ -4,7 +4,7 @@
 This application uses the command line to quickly generate a professional README file for a new project. When prompted for information about your project, the application accepts your input and produces a high-quality README.md file with the title of the project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,7 +14,7 @@ This application uses the command line to quickly generate a professional README
 
 ## Installation
 
-![Clone the repository](https://github.com/Firene11/readme-generator.git) **git clone https://github.com/Firene11/readme-generator.git** 
+[Clone the repository](https://github.com/Firene11/readme-generator.git) **git clone https://github.com/Firene11/readme-generator.git** 
 
 Open the repository in your code editor such as VS Code. Open the terminal and make sure you’re in the root directory.
 
