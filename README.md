@@ -30,7 +30,7 @@ Answer the prompted questions about your project. If you do not have an answer, 
 
 ## Screenshots
 Application
-(Assets/screenshot1.jpg) 
+!(Assets/screenshot1.jpg) 
 
 Generation
 (Assets/screenshot2.jpg)
